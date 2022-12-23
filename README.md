@@ -67,3 +67,54 @@ Feature Tasks
 Acceptance Test
 
 Ensure sellers and agents can see each others comments and messages for each offer.
+
+---
+
+## Wireframes
+
+Login/SignupActivity
+![Login/SignupActivity](/img/Login_SignupActivity.png)
+
+NavigationActivity
+![NavigationActivity](/img/Navigation.png)
+
+AllMyListingsActivity
+![AllMyListingsActivity](/img/AllMyListingsActivity.png)
+
+AboutActivity
+![AboutActivity](/img/AboutActivity.png)
+
+MainActivity
+![MainActivity](/img/MainActivity.png)
+
+OfferDetailActivity
+![OfferDetailActivity](/img/OfferDetailActivity.png)
+
+UserProfileActivity
+![UserProfileActivity](/img/UserProfileActivity.png)
+
+SubmitOfferActivity
+![SubmitOfferActivity](/img/SubmitOfferActivity.png)
+
+ChatMessageActivity
+![ChatMessageActivity](/img/ChatMessageActivity.png)
+
+NotificationActivity
+![NotificationActivity](/img/NotificationActivity.png)
+
+NearbyPropertiesActivity
+![NearbyPropertiesActivity](/img/NearbyPropertiesActivity.png)
+
+UserFlowAgent
+![UserFlowAgent](/img/UserFlowAgent.png)
+
+UserFlowClient
+![UserFlowClient](/img/UserFlowClient.png)
+
+Schema
+![Schema](/img/Schema.png)
+
+Domain Models
+![Domain Models](/img/models.png)
+![Domain Models](/img/model2.png)
+![Domain Models](/img/model4.png)
