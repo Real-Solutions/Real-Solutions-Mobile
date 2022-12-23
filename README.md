@@ -100,7 +100,7 @@ ChatMessageActivity
 ![ChatMessageActivity](/img/ChatMessageActivity.png)
 
 NotificationActivity
-![NotificationActivity](/img/NotificationActivity.png)
+![NotificationActivity](/img/NotificationsActivity.png)
 
 NearbyPropertiesActivity
 ![NearbyPropertiesActivity](/img/NearbyPropertiesActivity.png)
